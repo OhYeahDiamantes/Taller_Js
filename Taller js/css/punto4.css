@@ -1,0 +1,56 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    margin: 20px;
+    background-color:#ffffff;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 5px;
+    padding: 7px;
+    color: #000000;
+    border-radius: 5;
+    font-family: 'Cursive', cursive;
+    font-size: 12px;
+}
+
+h1 {
+    color: #333;
+}
+
+div {
+    margin: 10px;
+}
+
+label {
+    font-weight: bold;
+    font-size: 15px;
+    margin-right: 10px;
+    font-family: Kristen ITC;
+}
+
+input {
+    width: 100px;
+}
+
+button {
+    background-color: #b8168f;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 10px;
+    cursor: pointer;
+    font-family: ink free;
+    font-weight: bold;
+}
+button:hover {
+    background-color: #29031f;
+}
+#resultado {
+    font-weight: bold;
+    margin: 20px;
+    font-size: 20px;
+}

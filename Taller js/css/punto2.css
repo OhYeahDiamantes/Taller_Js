@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color:#ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 5px;
+    padding: 7px;
+    color: #000000;
+    border-radius: 5;
+    font-family: 'Cursive', cursive;
+    font-size: 12px;
+}
+
+.waos {
+    display: grid;
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #54125a;
+    color: #f0eeee;
+    border: none;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    font-family: Berlin Sans FB;
+}
+
+button:hover {
+    background-color: #1b061b;
+}
+
+input {
+    padding: 10px;
+}
+
+p {
+    margin-top: 10px;
+}

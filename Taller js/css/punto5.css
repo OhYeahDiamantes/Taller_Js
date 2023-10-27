@@ -1,0 +1,58 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f0f0f0;
+    margin: 20px;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 5px;
+    padding: 7px;
+    color: #000000;
+    border-radius: 5;
+    font-family: 'Cursive', cursive;
+    font-size: 10px;
+}
+
+h1 {
+    color: #333;
+    font-family: 'Arial Rounded MT Bold';
+}
+
+.input-qganasDeExplotarTodo {
+    margin: 20px;
+    font-weight: bold;
+    font-size: 15px;
+    margin-right: 10px;
+    font-family: Lucida Console;
+}
+
+input[type="number"] {
+    width: 100px;
+    padding: 5px;
+}
+
+button {
+    background-color: #0a8177;
+    color: #fff;
+    padding: 5px 10px;
+    border: none;
+    cursor: pointer;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    margin: 8px;
+    font-family: ink free;
+    font-weight: bold;
+}
+
+button:hover {
+    background-color: #75e6dc;
+}
+
+#result{
+    font-weight: bold;
+    margin: 20px;
+    font-size: 15px;
+}
