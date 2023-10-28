@@ -1,0 +1,53 @@
+body {
+    font-family: 'Berlin Sans FB';
+    text-align: center;
+    margin: 20px;
+    background-color:#ffffff;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 5px;
+    padding: 7px;
+    color: #000000;
+    border-radius: 5;
+    font-size: 15px;
+}
+
+h1 {
+    color: #333;
+}
+
+label {
+    font-size: 18px;
+    margin-right: 10px;
+}
+
+input {
+    width: 300px;
+    height: 30px;
+    font-size: 16px;
+}
+
+button {
+    background-color: #676594;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 10px;
+    cursor: pointer;
+    font-family: ink free;
+    font-weight: bold;
+}
+
+button:hover {
+    background-color: #252438;
+}
+
+#resultado {
+    margin-top: 20px;
+    font-size: 18px;
+    color: #333;
+}
